@@ -1,0 +1,3 @@
+TAREFA_01 -> git add
+TAREFA_02 -> git commit
+TAREFA_03 -> git push
